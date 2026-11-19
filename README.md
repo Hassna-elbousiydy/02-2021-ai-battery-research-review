@@ -8,7 +8,7 @@ Research publication co-authored by **Hassna El-Bousiydy** · Publication 02 of 
 
 Teo Lombardo, Marc Duquesnoy, Hassna El-Bouysidy, Fabian Årén, Alfonso Gallo-Bueno, Peter Bjørn Jørgensen, Arghya Bhowmik, Arnaud Demortière, Elixabete Ayerbe, Francisco Alcaide, Marine Reynaud, Javier Carrasco, Alexis Grimaud, Chao Zhang, Tejs Vegge, Patrik Johansson and Alejandro A. Franco.
 
-*Chemical Reviews*, 122(12), 10899–10969 (2022). First published online: **16 September 2021**; journal issue: **22 June 2022**.
+*Chemical Reviews*, 122(12), 10899-10969 (2022). First published online: **16 September 2021**; journal issue: **22 June 2022**.
 
 The author spelling above follows the indexed publication record.
 
@@ -34,8 +34,8 @@ See the [ACS sharing policy](https://pubs.acs.org/pages/authors_sharing) for dis
 
 ## Publication sequence
 
-1. [Battery text mining](https://github.com/Hassna-elbousiydy/01-2021-battery-text-mining) — January 2021.
-2. **This review** — September 2021 online; 2022 journal issue.
-3. [LIBAC](https://github.com/Hassna-elbousiydy/03-2023-libac-annotated-corpus) — February 2023.
+1. [Battery text mining](https://github.com/Hassna-elbousiydy/01-2021-battery-text-mining) - January 2021.
+2. **This review** - September 2021 online; 2022 journal issue.
+3. [LIBAC](https://github.com/Hassna-elbousiydy/03-2023-libac-annotated-corpus) - February 2023.
 
-Dates above refer to publications, not to GitHub activity. Companion repositories may require access while private.
+Dates above refer to publications, not to GitHub activity.
